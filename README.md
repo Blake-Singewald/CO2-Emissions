@@ -1,4 +1,4 @@
-Group 7: Jerrica, Jesse, Blake and Jim
+Group 7: Jerrica, Jesse, Blake and James
 
 Does CO2 Emissions have an impact on water toxicity?
 
