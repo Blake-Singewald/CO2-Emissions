@@ -8,7 +8,7 @@ From there we will compare/contrast pH, x, y and z* in the reservoirs of these s
 
 *x, y, z will be 3 different toxins tbd later
 
-kaggle.comkaggle.com
+https://kaggle.com
 
 CO2 Emissions
 Can you forecast CO2 Emissions?
