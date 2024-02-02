@@ -1,0 +1,165 @@
+﻿Parameter Code,Parameter Name,Parameter Long Name,Parameter Group,EC Number,CAS Number,ChEBI Number,Parameter Description
+ACHLORDANE,Chlordane,Alpha-Chlordane,/Chemical/Organic/Pesticide,225-825-5,5103-71-9,39068,"C10H6Cl8, (1S,2S,3aS,4S,7R,7aR)-1,2,4,5,6,7,8,8-octachloro-2,3,3a,4,7,7a-hexahydro-1H-4,7-methanoindene"
+Ag-Dis,Silver,Silver - Dissolved,/Chemical/Inorganic/Metal,231-131-3,7440-22-4,9141,Silver fraction in an unacidified sample that pass through a 0.45 µm membrane filter.
+Ag-Tot,Silver,Silver - Total,/Chemical/Inorganic/Metal,231-131-3,7440-22-4,9141,Silver fraction in an unfiltered sample after vigorous digestion.
+ALDICARB,Aldicarb,Aldicarb,/Chemical/Organic/Pesticide,204-123-2,116-06-3,2555,"C7H14N2O2S, 2-methyl-N-[(methylcarbamoyl)oxy]-2-(methylsulfanyl)propan-1-imine"
+Al-Dis,Aluminum,Aluminum - Dissolved,/Chemical/Inorganic/Metal,231-072-3,7429-90-5,28984,Aluminum fraction in an unacidified sample that pass through a 0.45 µm membrane filter.
+ALDRIN,Aldrin,Aldrin,/Chemical/Organic/Pesticide,206-215-8,309-00-2,2564,"C12H8Cl6, (1R,4S,4aS,5S,8R,8aR)-1,2,3,4,10,10-hexachloro-1,4,4a,5,8,8a-hexahydro-1,4:5,8-dimethanonaphthalene"
+Alk-Tot,Alkalinity,Total Alkalinity,/Chemical/Inorganic/Non-Metal,207-439-9,471-34-1,3311,"Acid-neutralizing capacity of sample at the point, when all Carbonate (CO32-) and Bicarbonate (HCO3-) have reacted, reported as mg CaCO3/L."
+Al-Tot,Aluminum,Aluminum - Total,/Chemical/Inorganic/Metal,231-072-3,7429-90-5,28984,Aluminum fraction in an unfiltered sample after vigorous digestion.
+ANTH,Acenaphthene,"1,2-Dihydroacenaphthylene",/Chemical/Organic/PAH,201-469-6,83-32-9,22154,C12H10
+ANTHRACENE,Anthracene,Anthracene,/Chemical/Organic/PAH,204-371-1,120-12-7,35298,C14H10
+ANTL,Cyclopenta[de]naphthalene,Acenaphthylene,/Chemical/Organic/PAH,205-917-1,208-96-8,33081,C12H8
+As-Dis,Arsenic,Arsenic - Dissolved,/Chemical/Inorganic/Metal,231-148-6,7440-38-2,27563,Arsenic fraction in an unacidified sample that pass through a 0.45 µm membrane filter.
+As-Tot,Arsenic,Arsenic - Total,/Chemical/Inorganic/Metal,231-148-6,7440-38-2,27563,Arsenic fraction in an unfiltered sample after vigorous digestion.
+ATRAZINE,Atrazine,Atrazine,/Chemical/Organic/Pesticide,217-617-8,1912-24-9,1593,"C8H14ClN5, 6-chloro-N-ethyl-N'-(propan-2-yl)-1,3,5-triazine-2,4-diamine"
+Ba-Dis,Barium,Barium - Dissolved,/Chemical/Inorganic/Metal,231-149-1,7440-39-3,32595,Barium fraction in an unacidified sample that pass through a 0.45 µm membrane filter.
+BAP,Benzo[a]pyrene,"3,4-Benzopyrene",/Chemical/Organic/PAH,200-028-5,50-32-8,29865,"C20H12, benzo[pqr]tetraphene"
+Ba-Tot,Barium,Barium - Total,/Chemical/Inorganic/Metal,231-149-1,7440-39-3,32595,Barium fraction in an unfiltered sample after vigorous digestion.
+B-Dis,Boron,Boron - Dissolved,/Chemical/Inorganic/Metal,231-151-2,7440-42-8,2756,Boron fraction in an unacidified sample that pass through a 0.45 µm membrane filter.
+BENZENE,Benzene,Benzene,/Chemical/Organic/Volatile Organic Compound,200-753-8,71-43-2,16716,C6H6
+Be-Tot,Beryllium,Beryllium - Total,/Chemical/Inorganic/Metal,231-150-7,7440-41-7,30501,Beryllium fraction in an unfiltered sample after vigorous digestion.
+BHC,BHC,Hexachlorocyclohexane,/Chemical/Organic/POP,210-168-9,608-73-1,24536,"C6H6Cl6, 1,2,3,4,5,6-Hexachlorocyclohexane"
+BHC-alpha,BHC,Alpha-Hexachlorocyclohexane,/Chemical/Organic/POP,206-270-8,319-84-6,39096,"C6H6Cl6, (1R,2R,3R,4R,5S,6S)-1,2,3,4,5,6-Hexachlorocyclohexane"
+BHC-beta,BHC,Beta-Hexachlorocyclohexane,/Chemical/Organic/POP,206-271-3,319-85-7,28428,"C6H6Cl6, (1r,2t,3c,4t,5c,6t)-1,2,3,4,5,6-Hexachlorocyclohexane"
+BHC-delta,BHC,Delta-Hexachlorocyclohexane,/Chemical/Organic/POP,206-272-9,319-86-8,39095,"C6H6Cl6, (1r,2R,3S,4s,5R,6S)-1,2,3,4,5,6-Hexachlorocyclohexane"
+BHC-gamma,BHC,Gamma-Hexachlorocyclohexane (Lindane),/Chemical/Organic/Pesticide,200-401-2,58-89-9,32888,"C6H6Cl6, (1r,2R,3S,4r,5R,6S)-1,2,3,4,5,6-Hexachlorocyclohexane"
+BOD,Oxygen Demand,Biochemical Oxygen Demand,/Chemical/Oxygen Demand,,,,A measure of oxygen consumption during decomposition of both organic and inorganic substances.
+B-Tot,Boron,Boron - Total,/Chemical/Inorganic/Metal,231-151-2,7440-42-8,2756,Boron fraction in an unfiltered sample after vigorous digestion.
+BZAATR,Tetraphene,"1,2-Benzanthracene",/Chemical/Organic/PAH,200-280-6,56-55-3,51348,C18H12
+BZBFLA,Benzo[b]fluoranthene,"2,3-Benzofluoranthene",/Chemical/Organic/PAH,205-911-9,205-99-2,34565,"C20H12, benzo[e]acephenanthrylene"
+BZGHIPYL,Benzo[ghi]perylene,"1,12-Benzoperylene",/Chemical/Organic/PAH,205-883-8,191-24-2,34568,C22H12
+BZKFLA,Benzo[k]fluoranthene,"11,12-Benzofluoranthene",/Chemical/Organic/PAH,205-916-6,207-08-9,34569,C20H12
+Ca-Dis,Calcium,Calcium - Dissolved,/Chemical/Inorganic/Metal,231-179-5,7440-70-2,22984,Calcium fraction in an unacidified sample that pass through a 0.45 µm membrane filter.
+Ca-Tot,Calcium,Calcium - Total,/Chemical/Inorganic/Metal,231-179-5,7440-70-2,22984,Calcium fraction in an unfiltered sample after vigorous digestion.
+CBZH,Benzene Chloride,Chlorobenzene,/Chemical/Organic/Volatile Organic Compound,203-628-5,108-90-7,28097,C6H5Cl
+CCl4,Carbon Tetrachloride,Tetrachloromethane,/Chemical/Organic/Volatile Organic Compound,203-453-4,56-23-5,27385,CCl4
+Cd-Dis,Cadmium,Cadmium - Dissolved,/Chemical/Inorganic/Metal,231-152-8,7440-43-9,22977,Cadmium fraction in an unacidified sample that pass through a 0.45 µm membrane filter.
+Cd-Tot,Cadmium,Cadmium - Total,/Chemical/Inorganic/Metal,231-152-8,7440-43-9,22977,Cadmium fraction in an unfiltered sample after vigorous digestion.
+Chl-a,Chlorophyll A,Chlorophyll A,/Biological/Pigment,207-536-6,479-61-8,1823,"C55H72MgN4O5, [(2E,7R,11R)-3,7,11,15-tetramethylhexadec-2-en-1-yl (22R,17S,18S)-7-ethyl-21,22,17,18-tetrahydro-22-(methoxycarbonyl)-3,8,13,17-tetramethyl-21-oxo-12-ethenylcyclopenta[at]porphyrin-18-propanoato(2-)]magnesium"
+Cl-Dis,Chloride,Chloride - Dissolved,/Chemical/Inorganic/Non-Metal,,16887-00-6,17996,
+Cl-Tot,Chloride,Chloride - Total,/Chemical/Inorganic/Non-Metal,,16887-00-6,17996,
+CN-Free,Cyanide,Cyanide - Free,/Chemical/Inorganic/Non-Metal,200-821-6,57-12-5,17514,Sum of hydrogen cyanide (HCN) and cyanide ion (CN-) in a sample.
+CN-Tot,Cyanide,Cyanide - Total,/Chemical/Inorganic/Non-Metal,200-821-6,57-12-5,17514,"Sum of all cyanide-containing compounds in a sample, including free cyanide, weak acid hydrolyzable (WAD) cyanide compounds and strong metal cyanide complexes."
+COD,Oxygen Demand,Chemical Oxygen Demand,/Chemical/Oxygen Demand,,,,A measure of oxygen consumption during decomposition of organic and inorganic substances by a chemical oxidant.
+Co-Tot,Cobalt,Cobalt - Total,/Chemical/Inorganic/Metal,231-158-0,7440-48-4,27638,Cobalt fraction in an unfiltered sample after vigorous digestion.
+CO3,Carbonate,Trioxidocarbonate(2-),/Chemical/Nutrient/Carbon,,3812-32-6,41609,CO3
+Cr-Dis,Chromium,Chromium - Dissolved,/Chemical/Inorganic/Metal,231-157-5,7440-47-3,28073,Trivalent and Hexavalent Chromium fraction in an unacidified sample that pass through a 0.45 µm membrane filter.
+Cr-Tot,Chromium,Chromium - Total,/Chemical/Inorganic/Metal,231-157-5,7440-47-3,28073,Trivalent and Hexavalent Chromium fraction in an unfiltered sample after vigorous digestion.
+Cr-VI,Chromium,Chromium - Hexavalent,/Chemical/Inorganic/Metal,,18540-29-9,33007,Chromium in the +6 oxidation state.
+CRYH,Chrysene,"1,2-Benzophenanthrene",/Chemical/Organic/PAH,205-923-4,218-01-9,51687,C18H12
+Cu-Dis,Copper,Copper - Dissolved,/Chemical/Inorganic/Metal,231-159-6,7440-50-8,28694,Copper fraction in an unacidified sample that pass through a 0.45 µm membrane filter.
+Cu-Tot,Copper,Copper - Total,/Chemical/Inorganic/Metal,231-159-6,7440-50-8,28694,Copper fraction in an unfiltered sample after vigorous digestion.
+DBA,"Dibenz[a,h]anthracene","1,2:5,6-Dibenzoanthracene",/Chemical/Organic/PAH,200-181-8,53-70-3,35299,C22H14
+DDT,DDT,Total Dichloro-Diphenyl-Trichloroethanes,/Chemical/Organic/Pesticide,200-024-3,50-29-3,1613,Sum of all DDT related compounds in a water sample.
+DIELDRIN,Dieldrin,Dieldrin,/Chemical/Organic/Pesticide,200-484-5,60-57-1,34696,"C12H8Cl6O, rel-(1R,2S,3S,6R,7R,8S,9S,11R)-3,4,5,6,13,13-hexachloro-10-oxapentacyclo[6.3.1.13,6.02,7.09,11]tridec-4-ene"
+DIP,Phosphate,Dissolved Inorganic Phosphorus,/Chemical/Nutrient/Phosphorous,604-302-9,14265-44-2,18367,"Phosphate fractions in filtered samples responding to colorimetric tests after acid-hydrolysis (including dissolved reactive and acid-hydrolyzable phosphates), reported as phosphorus."
+DOC,Organic Carbon,Dissolved Organic Carbon,/Chemical/Nutrient/Carbon,231-153-3,7440-44-0,27594,Organic carbon fraction that passes through a 0.45 µm filter.
+DON,Organic Nitrogen,Dissolved Organic Nitrogen,/Chemical/Nutrient/Nitrogen,231-783-9,7727-37-9,25555,"Organic nitrogen fraction in filtered samples, reported as nitrogen."
+DRP,Orthophosphate,Dissolved Reactive Phosphorus,/Chemical/Nutrient/Phosphorous,604-302-9,14265-44-2,18367,"Phosphate fractions in filtered samples responding to colorimetric tests without preliminary acid-hydrolysis or oxidative digestion (largely a measure of orthophosphates), reported as phosphorus."
+EC,Electrical Conductance,Electrical Conductance,/Chemical/Inorganic/Bulk Property,,,,Measure of the ability of water to carry an electric current.
+ECOLI,Coliforms,Escherichia Coli,/Biological/Indicator Organism,,,,"Gram-negative, facultatively anaerobic, rod-shaped, coliform bacterium of the genus Escherichia."
+EDC,Ethylene Dichloride,"1,2-Dichloroethane",/Chemical/Organic/Volatile Organic Compound,203-458-1,107-06-2,27789,C2H4Cl2
+ENDOSULFANI,Endosulfan,Endosulfan - Alpha,/Chemical/Organic/Pesticide,204-079-4,959-98-8,4791,"C9H6Cl6O3S, 6,7,8,9,10,10-hexachloro-1,5,5a,6,9,9a-hexahydro-6,9-methano-2,4,3-benzodioxathiepine 3-oxide"
+ENDOSULFANII,Endosulfan,Endosulfan - Beta,/Chemical/Organic/Pesticide,204-079-5,33213-65-9,4791,"C9H6Cl6O3S, 6,7,8,9,10,10-hexachloro-1,5,5a,6,9,9a-hexahydro-6,9-methano-2,4,3-benzodioxathiepine 3-oxide"
+ENDRIN,Endrin,Endrin,/Chemical/Organic/Pesticide,200-775-7,72-20-8,81526,C12H8Cl6O
+ETBZ,Ethylbenzene,Ethylbenzene,/Chemical/Organic/Volatile Organic Compound,202-849-4,100-41-4,16101,C8H10
+F-Dis,Fluoride,Fluoride - Dissolved,/Chemical/Inorganic/Non-Metal,,16984-48-8,17051,Represents ionic fluoride.
+FECALCOLI,Coliforms,Fecal Coliform,/Biological/Indicator Organism,,,,"Facultative anaerobic, gram-negative, non-spore-forming, rod-shaped bacteria that ferment lactose with gas and acid formation within 48h at 44 +/-0.5°C."
+Fe-Dis,Iron,Iron - Dissolved,/Chemical/Inorganic/Metal,231-096-4,7439-89-6,18248,Iron fraction in an unacidified sample that pass through a 0.45 µm membrane filter.
+Fe-Tot,Iron,Iron - Total,/Chemical/Inorganic/Metal,231-096-4,7439-89-6,18248,Iron fraction in an unfiltered sample after vigorous digestion.
+FLAH,Benzo[jk]fluorene,Fluoranthene,/Chemical/Organic/PAH,205-912-4,206-44-0,33083,C16H10
+FLRH,Fluorene,"2,2'-Methylenebiphenyl",/Chemical/Organic/PAH,201-695-5,86-73-7,28266,C13H10
+F-Tot,Fluoride,Fluoride - Total,/Chemical/Inorganic/Non-Metal,,16984-48-8,17051,Sum of soluble and insoluble fluoride.
+HCO3,Bicarbonate,Hydrogencarbonate,/Chemical/Inorganic/Non-Metal,,71-52-3,17544,HCO3
+HEPTACHLOR,Heptachlor,Heptachlorane,/Chemical/Organic/Pesticide,200-962-3,76-44-8,34785,"C10H5Cl7, 1,4,5,6,7,8,8-heptachloro-3a,4,7,7a-tetrahydro-1H-4,7-methanoindene"
+HEPTACHLOREPOX,Heptachlor Epoxide,Heptachlor Epoxide,/Chemical/Organic/Pesticide,213-831-0,1024-57-3,34786,C10H5Cl7O
+Hg-Dis,Mercury,Mercury - Dissolved,/Chemical/Inorganic/Metal,231-106-7,7439-97-6,1617,Mercury fraction in an unacidified sample that pass through a 0.45 µm membrane filter.
+Hg-Tot,Mercury,Mercury - Total,/Chemical/Inorganic/Metal,231-106-7,7439-97-6,1617,Mercury fraction in an unfiltered sample after vigorous digestion.
+H-T,Hardness,Hardness - Total,/Chemical/Inorganic/Bulk Property,,,,"Sum of calcium hardness and magnesium hardness, expressed as calcium carbonate in milligrams per liter."
+IDN123CDPYR,O-Phenylenpyrene,"Indeno[1,2,3-cd]pyrene",/Chemical/Organic/PAH,205-893-2,193-39-5,82335,CH22H12
+K-Dis,Potassium,Potassium - Dissolved,/Chemical/Inorganic/Metal,231-119-8,9/7/7440,26216,Potassium fraction in an unacidified sample that pass through a 0.45 µm membrane filter.
+K-Tot,Potassium,Potassium - Total,/Chemical/Inorganic/Metal,231-119-8,9/7/7440,26216,Potassium fraction in an unfiltered sample after vigorous digestion.
+Li-Tot,Lithium,Lithium - Total,/Chemical/Inorganic/Metal,231-102-5,7439-93-2,30145,Lithium fraction in an unfiltered sample after vigorous digestion.
+MBAS,Anionic Tensides,Anionic surface active agents,/Chemical/Organic/Surfactant,,,,Surface active agents detectable by a methylene blue active substances (MBAS) assay.
+Mg-Dis,Magnesium,Magnesium - Dissolved,/Chemical/Inorganic/Metal,231-104-6,7439-95-4,25107,Magnesium fraction in an unacidified sample that pass through a 0.45 µm membrane filter.
+Mg-Tot,Magnesium,Magnesium - Total,/Chemical/Inorganic/Metal,231-104-6,7439-95-4,25107,Magnesium fraction in an unfiltered sample after vigorous digestion.
+Mn-Dis,Manganese,Manganese - Dissolved,/Chemical/Inorganic/Metal,231-105-1,7439-96-5,18291,Manganese fraction in an unacidified sample that pass through a 0.45 µm membrane filter.
+Mn-Tot,Manganese,Manganese - Total,/Chemical/Inorganic/Metal,231-105-1,7439-96-5,18291,Manganese fraction in an unfiltered sample after vigorous digestion.
+Mo-Dis,Molybdenum,Molybdenum - Dissolved,/Chemical/Inorganic/Metal,231-107-2,7439-98-7,28685,Molybdenum fraction in an unacidified sample that pass through a 0.45 µm membrane filter.
+Mo-Tot,Molybdenum,Molybdenum - Total,/Chemical/Inorganic/Metal,231-107-2,7439-98-7,28685,Molybdenum fraction in an unfiltered sample after vigorous digestion.
+MPXYLS,Xylene,M-P-Xylene,/Chemical/Organic/Volatile Organic Compound,,179601-23-1,27338,Mixture of m- and p-isomers of xylene.
+Na-Dis,Sodium,Sodium - Dissolved,/Chemical/Inorganic/Metal,231-132-9,7440-23-5,26708,Sodium fraction in an unacidified sample that pass through a 0.45 µm membrane filter.
+Na-Tot,Sodium,Sodium - Total,/Chemical/Inorganic/Metal,231-132-9,7440-23-5,26708,Sodium fraction in an unfiltered sample after vigorous digestion.
+NH3N,Ammonia,Free Ammonia Nitrogen,/Chemical/Nutrient/Nitrogen,231-635-3,7664-41-7,16134,"Un-ionized ammonia (NH3), reported as Nitrogen."
+NH4N,Ammonia,Total Ammonia Nitrogen,/Chemical/Nutrient/Nitrogen,231-635-3,7664-41-7,16134,"Combined un-ionized and ionized Ammonia (NH3 + NH4+), reported as Nitrogen"
+Ni-Dis,Nickel,Nickel - Dissolved,/Chemical/Inorganic/Metal,231-111-4,7440-02-0,28112,Nickel fraction in an unacidified sample that pass through a 0.45 µm membrane filter.
+Ni-Tot,Nickel,Nickel - Total,/Chemical/Inorganic/Metal,231-111-4,7440-02-0,28112,Nickel fraction in an unfiltered sample after vigorous digestion.
+NOxN,Oxidized Nitrogen,Nitrate and Nitrite,/Chemical/Nutrient/Nitrogen,231-783-9,7727-37-9,25555,"Nitrate nitrogen and nitrite nitrogen fractions in unfiltered samples, reported as nitrogen."
+NO2N,Oxidized Nitrogen,Nitrite,/Chemical/Nutrient/Nitrogen,233-272-6,14797-65-0,16301,Reported as nitrogen.
+NO3N,Oxidized Nitrogen,Nitrate,/Chemical/Nutrient/Nitrogen,231-554-3,14797-55-8,17632,Reported as nitrogen.
+NPTH,Naphtalene,Naphthalene,/Chemical/Organic/PAH,202-049-5,91-20-3,16482,C10H8
+ODCB,O-Dichlorobenzene,"1,2-Dichlorobenzene",/Chemical/Organic/Volatile Organic Compound,202-425-9,95-50-1,3529,C6H4Cl2
+OXYL,Xylene,O-Xylene,/Chemical/Organic/Volatile Organic Compound,202-422-2,95-47-6,28063,"C8H10, 1,2-Xylene"
+O2-Dis,Oxygen,Dissolved Oxygen,/Chemical/Inorganic/Dissolved Gas,231-956-9,7782-44-7,15379,Concentration of molecular oxygen dissolved in water.
+O2-Dis-Sat,Oxygen,Percent Dissolved Oxygen Saturation,/Chemical/Inorganic/Dissolved Gas,231-956-9,7782-44-7,15379,Ratio of the concentration of dissolved oxygen (O2) in water to the maximum amount of oxygen that will dissolve in water at the given temperature and pressure under stable equilibrium.
+Pb-Dis,Lead,Lead - Dissolved,/Chemical/Inorganic/Metal,231-100-4,7439-92-1,27889,Lead fraction in an unacidified sample that pass through a 0.45 µm membrane filter.
+Pb-Tot,Lead,Lead - Total,/Chemical/Inorganic/Metal,231-100-4,7439-92-1,27889,Lead fraction in an unfiltered sample after vigorous digestion.
+PCB,PCB,Polychlorinated Biphenyls,/Chemical/Organic/PCB,215-648-1,1336-36-3,53156,C12H10-XClX
+PCE,PCE,Tetrachloroethene,/Chemical/Organic/Volatile Organic Compound,204-825-9,127-18-4,173,C2Cl4
+PCP,PCP,Pentachlorophenol,/Chemical/Organic/Pesticide,201-778-6,87-86-5,17642,C6HCl5O
+PDCB,P-Dichlorobenzene,"1,4-Dichlorobenzene",/Chemical/Organic/Volatile Organic Compound,203-400-5,106-46-7,28618,C6H4Cl2
+pH,pH,pH,/Chemical/Inorganic/Bulk Property,,,,"The negative logarithm of the hydrogen ion concentration, a measure of acidity or alkalinity of water soluble substances."
+PHLHs,Phenols,Phenols,/Chemical/Organic/Phenol,,,33853,A class of chemical compounds consisting of a hydroxyl group (-OH) attached to an aromatic hydrocarbon group.
+PHNH,Phenanthrene,Phenanthracene,/Chemical/Organic/PAH,201-581-5,85-01-8,28851,C14H10
+PN,Total Nitrogen,Particulate Nitrogen,/Chemical/Nutrient/Nitrogen,231-783-9,7727-37-9,25555,"Organic and inorganic nitrogen fractions retained by a filter, reported as nitrogen."
+POC,Organic Carbon,Particulate Organic Carbon,/Chemical/Nutrient/Carbon,231-153-3,7440-44-0,27594,Organic carbon fraction that is retained by a 0.45 µm filter.
+PON,Organic Nitrogen,Particulate Organic Nitrogen,/Chemical/Nutrient/Nitrogen,231-783-9,7727-37-9,25555,"Organic nitrogen fraction retained by a filter, reported as nitrogen."
+Q-Inst,Discharge,Instantaneous Discharge,/Physical/Flux,,,,Discharge at the time of sampling.
+Sal-TD,Salinity,Total Dissolved Salts,/Chemical/Inorganic/Bulk Property,,,,Sum of all the ions present in a water sample.
+SAR,Sodium,Sodium Adsorption Ratio,/Chemical/Inorganic/Metal,231-132-9,7440-23-5,26708,Ratio of sodium to the combination of calcium and magnesium.
+Sb-Dis,Antimony,Antimony - Dissolved,/Chemical/Inorganic/Metal,231-146-5,7440-36-0,30304,Antimony fraction in an unacidified sample that pass through a 0.45 µm membrane filter.
+Sb-Tot,Antimony,Antimony - Total,/Chemical/Inorganic/Metal,231-146-5,7440-36-0,30304,Antimony fraction in an unfiltered sample after vigorous digestion.
+Se-Dis,Selenium,Selenium - Dissolved,/Chemical/Inorganic/Metal,231-957-4,7782-49-2,27568,Selenium fraction in an unacidified sample that pass through a 0.45 µm membrane filter.
+Se-Tot,Selenium,Selenium - Total,/Chemical/Inorganic/Metal,231-957-4,7782-49-2,27568,Selenium fraction in an unfiltered sample after vigorous digestion.
+SiO2-Dis,Silicon dioxide,Silica - Dissolved,/Chemical/Inorganic/Non-Metal,231-545-4,7631-86-9,30563,Fraction of molybdate-reactive and molybdate-unreactive silica that pass through a 0.45 µm membrane filter.
+SiO2-Rea,Silicon dioxide,Silica - Reactive,/Chemical/Inorganic/Non-Metal,231-545-4,7631-86-9,30563,"The forms of silica that are molybdate-reactive including dissolved simple silicates, monomeric silica and silicic acid, as well as an undetermined fraction of polymeric silica."
+SiO2-Tot,Silicon dioxide,Silica - Total,/Chemical/Inorganic/Non-Metal,231-545-4,7631-86-9,30563,Fraction of molybdate-reactive and molybdate-unreactive silica in an unfiltered sample.
+Sn-Tot,Tin,Tin - Total,/Chemical/Inorganic/Metal,231-141-8,7440-31-5,3299,Tin fraction in an unfiltered sample after vigorous digestion.
+SO4-Dis,Sulfate,Sulfate - Dissolved,/Chemical/Inorganic/Non-Metal,604-622-9,14808-79-8,16189,
+SO4-Tot,Sulfate,Sulfate - Total,/Chemical/Inorganic/Non-Metal,604-622-9,14808-79-8,16189,
+Sr-Tot,Strontium,Strontium - Total,/Chemical/Inorganic/Metal,231-133-4,7440-24-6,33324,Strontium fraction in an unfiltered sample after vigorous digestion.
+STYRENE,Styrene,Phenylethylene,/Chemical/Organic/Volatile Organic Compound,202-851-5,100-42-5,27452,C8H8
+TCE,Ethylene Trichloride,"1,1,2-Trichloroethene",/Chemical/Organic/Volatile Organic Compound,201-167-4,79-01-6,16602,C2HCl3
+TDN,Total Nitrogen,Total Dissolved Nitrogen,/Chemical/Nutrient/Nitrogen,231-783-9,7727-37-9,25555,"Organic and inorganic nitrogen fractions in filtered samples, reported as nitrogen."
+TDP,Phosphorus,Total Dissolved Phosphorus,/Chemical/Nutrient/Phosphorous,231-768-7,7723-14-0,28659,"Phosphate fractions in filtered samples responding to colorimetric tests after oxidative digestion (including dissolved reactive, acid-hydrolyzable and organic phosphates), reported as phosphorus."
+TDS,Dissolved Solids,Total Dissolved Solids,/Physical/Water/Solids,,,,Portion of solids that passes through a filter.
+TEMP,Temperature,Water Temperature,/Physical/Temperature,,,,Ambient temperature of the water.
+TEMP-Air,Temperature,Air Temperature,/Physical/Temperature,,,,Ambient temperature of the air.
+TIP,Phosphate,Total Inorganic Phosphorus,/Chemical/Nutrient/Phosphorous,604-302-9,14265-44-2,18367,"Phosphate fractions in unfiltered samples responding to colorimetric tests after acid-hydrolysis (including total reactive and acid-hydrolyzable phosphates), reported as phosphorus."
+TKN,Kjeldahl Nitrogen,Total Kjeldahl Nitrogen,/Chemical/Nutrient/Nitrogen,231-783-9,7727-37-9,25555,"Organic nitrogen and total ammonia nitrogen fractions in unfiltered samples, reported as nitrogen."
+Tl-Dis,Thallium,Thallium - Dissolved,/Chemical/Inorganic/Metal,231-138-1,7440-28-0,3044,Thallium fraction in an unacidified sample that pass through a 0.45 µm membrane filter.
+Tl-Tot,Thallium,Thallium - Total,/Chemical/Inorganic/Metal,231-138-1,7440-28-0,3044,Thallium fraction in an unfiltered sample after vigorous digestion.
+TN,Total Nitrogen,Total Nitrogen,/Chemical/Nutrient/Nitrogen,231-783-9,7727-37-9,25555,"Organic and inorganic nitrogen fractions in unfiltered samples, reported as nitrogen."
+TOC,Organic Carbon,Total Organic Carbon,/Chemical/Nutrient/Carbon,231-153-3,7440-44-0,27594,Organic carbon fraction in an unfiltered sample.
+TOLH,Toluene,Methylbenzene,/Chemical/Organic/Volatile Organic Compound,203-625-9,108-88-3,17578,C7H8
+TOTCOLI,Coliforms,Total Coliform,/Biological/Indicator Organism,,,,"Facultative anaerobic, gram-negative, non-spore-forming, rod-shaped bacteria that ferment lactose with gas and acid formation within 48h at 35°C."
+TP,Phosphorus,Total Phosphorus,/Chemical/Nutrient/Phosphorous,231-768-7,7723-14-0,28659,"Phosphate fractions in unfiltered samples responding to colorimetric tests after oxidative digestion of the unfiltered sample (including total reactive, acid-hydrolyzable and organic phosphates), reported as phosphorus."
+TPP,Phosphorus,Total Particulate Phosphorus,/Chemical/Nutrient/Phosphorous,231-768-7,7723-14-0,28659,"Phosphate fractions retained by a filter responding to colorimetric tests after oxidative digestion (including dissolved reactive, acid-hydrolyzable and organic phosphates), reported as phosphorus."
+TRANS,Transparency,Transparency,/Physical/Optical,,,,Measure of the depth of light penetration into the water.
+TRP,Orthophosphate,Total Reactive Phosphorus,/Chemical/Nutrient/Phosphorous,604-302-9,14265-44-2,18367,"Phosphate fractions in unfiltered samples responding to colorimetric tests without preliminary acid-hydrolysis or oxidative digestion (largely a measure of orthophosphates), reported as phosphorus."
+TSS,Suspended Solids,Total Suspended Solids,/Physical/Water/Solids,,,,Portion of solids retained by a filter.
+TURB,Turbidity,Turbidity,/Physical/Optical,,,,Cloudiness or haziness of a fluid caused by suspended solids that are usually invisible to the naked eye.
+U-Dis,Uranium,Uranium - Dissolved,/Chemical/Inorganic/Metal,231-170-6,7440-61-1,27214,Uranium fraction in an unacidified sample that pass through a 0.45 µm membrane filter.
+U-Tot,Uranium,Uranium - Total,/Chemical/Inorganic/Metal,231-170-6,7440-61-1,27214,Uranium fraction in an unfiltered sample after vigorous digestion.
+V-Tot,Vanadium,Vanadium - Total,/Chemical/Inorganic/Metal,231-171-1,7440-62-2,27698,Vanadium fraction in an unfiltered sample after vigorous digestion.
+XYLTOT,Xylenes,Sum of Xylenes,/Chemical/Organic/Volatile Organic Compound,215-535-7,1330-20-7,27338,"Sum of the three xylene isomers o-xylene, m-xylene and p-xylene."
+Zn-Dis,Zinc,Zinc - Dissolved,/Chemical/Inorganic/Metal,231-175-3,7440-66-6,27363,Zinc fraction in an unacidified sample that pass through a 0.45 µm membrane filter.
+Zn-Tot,Zinc,Zinc - Total,/Chemical/Inorganic/Metal,231-175-3,7440-66-6,27363,Zinc fraction in an unfiltered sample after vigorous digestion.
+24D,"2,4-D","2,4-Dichlorophenoxyacetic Acid",/Chemical/Organic/Pesticide,202-361-1,94-75-7,28854,"C8H6Cl2O3, (2,4-Dichlorophenoxy)acetic acid"
+24DDD,Mitotane,"2,4'-DDD",/Chemical/Organic/Pesticide,200-166-6,53-19-0,6954,C14H10Cl4
+24DDE,"O,P'-DDE","2,4'-DDE",/Chemical/Organic/Pesticide,222-318-0,3424-82-6,34211,"C14H8Cl4, 2,2-(2-Chlorophenyl-4'-chlorophenyl)-1,1-dichloroethene"
+24DDT,"O,P'-DDT","2,4'-DDT",/Chemical/Organic/Pesticide,212-332-5,789-02-6,34027,"C14H9Cl5, 1,1,1-Trichloro-2-(o-chlorophenyl)-2-(p-chlorophenyl)ethane"
+44DDD,Rhothane,"4,4'-DDD",/Chemical/Organic/Pesticide,200-783-0,72-54-8,27841,"C14H10Cl4,  1,1'-(2,2-dichloroethane-1,1-diyl)bis(4-chlorobenzene)"
+44DDE,"P,P'-DDE","4,4'-DDE",/Chemical/Organic/Pesticide,200-784-6,72-55-9,16598,"C14H8Cl4,  1-chloro-4-[2,2-dichloro-1-(4-chlorophenyl)ethenyl]benzene"
+44DDT,"P,P'-DDT","4,4'-DDT",/Chemical/Organic/Pesticide,200-024-3,50-29-3,1613,"C14H9Cl5,  1-chloro-4-[2,2,2-trichloro-1-(4-chlorophenyl)ethyl]benzene"
