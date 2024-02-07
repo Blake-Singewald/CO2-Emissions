@@ -15,10 +15,10 @@ Bootcamp: UofO-VIRT-DATA-PT-12-2023-U-LOLC-MWTH
   
 Further research into these six countries resulted in the following information:
 
-\u2022 Kenya with a large population of more than 52 million is East Africa’s financial, trade and communications hub.
-  \u2022 Has made plans to reduce their emissions by increasing renewable energy and climate smart agriculture.
-  \u2022 Approximately 19,000 people die each year in Kenya due to air pollution.
-  \u2022 Main sources of air pollution include: traffic, roadside fires, road dust, industry and the use of solid fuels such as charcoal and wood to cook in open fires.
+* Kenya with a large population of more than 52 million is East Africa’s financial, trade and communications hub.
+  * Has made plans to reduce their emissions by increasing renewable energy and climate smart agriculture.
+  * Approximately 19,000 people die each year in Kenya due to air pollution.
+  * Main sources of air pollution include: traffic, roadside fires, road dust, industry and the use of solid fuels such as charcoal and wood to cook in open fires.
 
 \u2022 Burundi’s land use exploitation for consumption and commercialization contribute to 49% of the gas emissions.
   \u2022 Average person in Burundi generates approximately 88 tons of CO2 per year.
