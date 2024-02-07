@@ -1,7 +1,7 @@
-Authors: Jerrica Raemer, Blake Singewald, Jesse Rivera & James Montgomery
-Instructor: Thomas Tellner
-Bootcamp: UofO-VIRT-DATA-PT-12-2023-U-LOLC-MWTH
-2/7/2024
+Authors: Jerrica Raemer, Blake Singewald, Jesse Rivera & James Montgomery\n
+Instructor: Thomas Tellner\n
+Bootcamp: UofO-VIRT-DATA-PT-12-2023-U-LOLC-MWTH\n
+2/7/2024\n
 
 # Correlation of CO2 Emissions and Water Toxins
 
