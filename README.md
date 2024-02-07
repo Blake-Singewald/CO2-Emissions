@@ -7,7 +7,7 @@ Bootcamp: UofO-VIRT-DATA-PT-12-2023-U-LOLC-MWTH<br>
 
 ## INTRODUCTION:
 
-  Most of the world’s population is acutely aware of the yearly net increase of carbon dioxide, a greenhouse gas released from the combustion of hydrocarbons which currently is the main energy source for almost all countries. Our group hypothesizes that within countries with high CO2 emissions there will also be moderate to high levels of water toxins within those countries’ water catchments. To test our hypothesis, we incorporated datasets of countries’ population growth, CO2 emissions by country and water toxins present in three countries with the highest amount of CO2 emissions per capita and three countries with the lowest amount per capita.
+  Most of the world’s population is acutely aware of the yearly net increase of carbon dioxide, a greenhouse gas released from the combustion of hydrocarbons which currently is the main energy source for almost all countries.<sup>1</sup> Our group hypothesizes that within countries with high CO2 emissions there will also be moderate to high levels of water toxins within those countries’ water catchments. To test our hypothesis, we incorporated datasets of countries’ population growth<sup>2</sup>, CO2 emissions by country<sup>3</sup> and water toxins present in three countries with the highest amount of CO2 emissions per capita and three countries with the lowest amount per capita.<sup>4</sup> 
 
 ## CO2 EMISSIONS AND WORLD POPULATION
 
