@@ -49,8 +49,8 @@ Further research into these six countries resulted in the following information:
 
 
 
-<sup>1</sup> Iceland and Costa Rica produce 100% and 98% of their electric energy from renewable sources, respectively. https://www.climatecouncil.org.au/11-countries-leading-the-charge-on-renewable-energy/
-<sup>2</sup> https://www.kaggle.com/code/hasibalmuzdadid/world-population-analysis/input
-<sup>3</sup> https://www.kaggle.com/datasets/ulrikthygepedersen/co2-emissions-by-country
-<sup>4</sup> Entered in Czechia, Netherlands, Japan, Burundi, Kenya and Rwanda: https://portal.gemstat.org/applications/public.html?publicuser=PublicUser#gemstat/Stations
+<sup>1</sup> Iceland and Costa Rica produce 100% and 98% of their electric energy from renewable sources, respectively. https://www.climatecouncil.org.au/11-countries-leading-the-charge-on-renewable-energy/<br>
+<sup>2</sup> https://www.kaggle.com/code/hasibalmuzdadid/world-population-analysis/input<br>
+<sup>3</sup> https://www.kaggle.com/datasets/ulrikthygepedersen/co2-emissions-by-country<br>
+<sup>4</sup> Entered in Czechia, Netherlands, Japan, Burundi, Kenya and Rwanda: https://portal.gemstat.org/applications/public.html?publicuser=PublicUser#gemstat/Stations<br>
 
