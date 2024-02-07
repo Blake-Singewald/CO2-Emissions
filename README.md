@@ -52,7 +52,8 @@ Further research into these six countries resulted in the following information:
 ## RESULTS AND CONCLUSION
   Due to the p-value being greater than 0.05, the mathematical survey we completed of the water toxins within the water catchments of the top three CO<sub>2</sub> emitting countries compared to the lowest 3 countries was not statistically significant. Therefore, our hypothesis of a correlation between CO<sub>2</sub> emissions and moderate to high levels of water toxins could not be proven or disproven due to the inconclusive data. There are possibly many factors that may have created the inconclusive data such as the data collection of pollutants across all countries may not be strict enough or even uniformly gathered. It could also be a possibility that high energy producing, industrialized nations have stricter laws against water pollution, thus having high CO<sub>2</sub> emissions while maintaining lower levels of water toxins. In the end, these are just speculative observations and to properly retest our hypothesis we would need to take a more concentrated focus on specific water toxins that occur within all six countries or zoom in on water catchments only near the major cities of the six countries could possibly convey statistically significant data. 
 
-
+_______________________________________________________________________________________________________________________________________________________________________________
+## ENDNOTES
 <sup>1</sup> Iceland and Costa Rica produce 100% and 98% of their electric energy from renewable sources, respectively. https://www.climatecouncil.org.au/11-countries-leading-the-charge-on-renewable-energy/<br>
 <sup>2</sup> https://www.kaggle.com/code/hasibalmuzdadid/world-population-analysis/input<br>
 <sup>3</sup> https://www.kaggle.com/datasets/ulrikthygepedersen/co2-emissions-by-country<br>
