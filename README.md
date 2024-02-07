@@ -20,27 +20,27 @@ Further research into these six countries resulted in the following information:
   * Approximately 19,000 people die each year in Kenya due to air pollution.
   * Main sources of air pollution include: traffic, roadside fires, road dust, industry and the use of solid fuels such as charcoal and wood to cook in open fires.
 
-\u2022 Burundi’s land use exploitation for consumption and commercialization contribute to 49% of the gas emissions.
-  \u2022 Average person in Burundi generates approximately 88 tons of CO2 per year.
-  \u2022 Coal and oil are the main source of fuel with coal accounting for 49,000 metric tons per year and oil accounting for 613,000 metric tons per year.
+* Burundi’s land use exploitation for consumption and commercialization contribute to 49% of the gas emissions.
+  * Average person in Burundi generates approximately 88 tons of CO2 per year.
+  * Coal and oil are the main source of fuel with coal accounting for 49,000 metric tons per year and oil accounting for 613,000 metric tons per year.
 
-\u2022 Rwanda has 39% of its greenhouse gas emissions coming from agriculture, followed by waste, energy, land use and industrial processes.
-  \u2022 In 2022, Rwanda’s per capita CO2 emissions were at .1 tonnes (1 tonnes = 1,000 kilograms).
+* Rwanda has 39% of its greenhouse gas emissions coming from agriculture, followed by waste, energy, land use and industrial processes.
+  * In 2022, Rwanda’s per capita CO2 emissions were at .1 tonnes (1 tonnes = 1,000 kilograms).
 
-\u2022 Japan’s fossil fuels of oil, coal and natural gas make up 87% of their energy production.
-  \u2022 Fossil fuel combustion and industrial processes in Japan released 1.08 billion metric tons of carbon dioxide in 2022. 
-  \u2022 In 2022, Japan had a per capita CO2 emissions of 8.5 tonnes (1 tonnes = 1,000 kilograms).
-  \u2022 92% of total greenhouse gas emissions in Japan come from CO2 emissions.
-  \u2022 In 1998, Japan passed the Act of Promotion of Global Warming Countermeasures to commit the state, local governments and companies to develop emission reduction plans. These outlines plans to greatly improve energy efficiency by 2030. Since then Japan’s emissions have decreased by 10% to 25% over the past 10 years.
+* Japan’s fossil fuels of oil, coal and natural gas make up 87% of their energy production.
+  * Fossil fuel combustion and industrial processes in Japan released 1.08 billion metric tons of carbon dioxide in 2022. 
+  * In 2022, Japan had a per capita CO2 emissions of 8.5 tonnes (1 tonnes = 1,000 kilograms).
+  * 92% of total greenhouse gas emissions in Japan come from CO2 emissions.
+  * In 1998, Japan passed the Act of Promotion of Global Warming Countermeasures to commit the state, local governments and companies to develop emission reduction plans. These outlines plans to greatly improve energy efficiency by 2030. Since then Japan’s emissions have decreased by 10% to 25% over the past 10 years.
 
-\u2022 Czechia’s burning of fossil fuels are the largest contributors of nearly 90% of all carbon dioxide emissions.
-  \u2022 Total CO2 emissions have decreased from the 1970s to 2022.
-  \u2022 High coal use and older diesel fuel automobiles contributed to the high CO2 emissions.
-  \u2022 Have seen almost 40% reduction of CO2 emissions since 1990.
-  \u2022 The country has reduced its greenhouse gas emissions by 43% over the past three decades by decreasing the amount of coal used in its energy mix while improving energy efficiency in buildings and polluting technologies.
+* Czechia’s burning of fossil fuels are the largest contributors of nearly 90% of all carbon dioxide emissions.
+  * Total CO2 emissions have decreased from the 1970s to 2022.
+  * High coal use and older diesel fuel automobiles contributed to the high CO2 emissions.
+  * Have seen almost 40% reduction of CO2 emissions since 1990.
+  * The country has reduced its greenhouse gas emissions by 43% over the past three decades by decreasing the amount of coal used in its energy mix while improving energy efficiency in buildings and polluting technologies.
 
-\u2022 The Netherlands’ number of oil refineries is proportional to its population.
-  \u2022Ijmuiden steel plant and Eemshaven Power plant contribute to the majority of the country’s CO2 emissions.
-  \u2022In accordance with the Climate Act in 2019, the Netherlands wants to reduce their emissions by 49% by 2030 and obtain a 95% reduction by 2050.
+* The Netherlands’ number of oil refineries is proportional to its population.
+  * Ijmuiden steel plant and Eemshaven Power plant contribute to the majority of the country’s CO2 emissions.
+  * In accordance with the Climate Act in 2019, the Netherlands wants to reduce their emissions by 49% by 2030 and obtain a 95% reduction by 2050.
 
  ## RESEARCHING WATER TOXINS WITHIN CATCHMENTS
