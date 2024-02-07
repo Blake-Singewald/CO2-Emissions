@@ -7,7 +7,7 @@ Bootcamp: UofO-VIRT-DATA-PT-12-2023-U-LOLC-MWTH<br>
 
 ## INTRODUCTION:
 
-  Most of the world’s population is acutely aware of the yearly net increase of carbon dioxide, a greenhouse gas released from the combustion of hydrocarbons which currently is the main energy source for almost all countries.<sup>1</sup> Our group hypothesizes that within countries with high CO2 emissions there will also be moderate to high levels of water toxins within those countries’ water catchments. To test our hypothesis, we incorporated datasets of countries’ population growth<sup>2</sup>, CO2 emissions by country<sup>3</sup> and water toxins present in three countries with the highest amount of CO2 emissions per capita and three countries with the lowest amount per capita.<sup>4</sup> 
+  Most of the world’s population is acutely aware of the yearly net increase of carbon dioxide, a greenhouse gas released from the combustion of hydrocarbons which currently is the main energy source for almost all countries.<sup>1</sup> Our group hypothesizes that within countries with high CO2 emissions there will also be moderate to high levels of water toxins within those countries’ water catchments. To test our hypothesis, we incorporated datasets of countries’ population growth <sup>2</sup>, CO2 emissions by country <sup>3</sup> and water toxins present in three countries with the highest amount of CO2 emissions per capita and three countries with the lowest amount per capita.<sup>4</sup> 
 
 ## CO2 EMISSIONS AND WORLD POPULATION
 
@@ -44,3 +44,13 @@ Further research into these six countries resulted in the following information:
   * In accordance with the Climate Act in 2019, the Netherlands wants to reduce their emissions by 49% by 2030 and obtain a 95% reduction by 2050.
 
  ## RESEARCHING WATER TOXINS WITHIN CATCHMENTS
+
+
+
+
+
+<sup>1</sup> Iceland and Costa Rica produce 100% and 98% of their electric energy from renewable sources, respectively. https://www.climatecouncil.org.au/11-countries-leading-the-charge-on-renewable-energy/
+<sup>2</sup> https://www.kaggle.com/code/hasibalmuzdadid/world-population-analysis/input
+<sup>3</sup> https://www.kaggle.com/datasets/ulrikthygepedersen/co2-emissions-by-country
+<sup>4</sup> Entered in Czechia, Netherlands, Japan, Burundi, Kenya and Rwanda: https://portal.gemstat.org/applications/public.html?publicuser=PublicUser#gemstat/Stations
+
