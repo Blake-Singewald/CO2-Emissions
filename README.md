@@ -3,7 +3,7 @@ Instructor: Thomas Tellner<br>
 Bootcamp: UofO-VIRT-DATA-PT-12-2023-U-LOLC-MWTH<br>
 2/7/2024
 
-# Correlation of CO2 Emissions and Water Toxins
+# Correlation of CO<sub>2</sub> Emissions and Water Toxins
 
 ## INTRODUCTION:
 
